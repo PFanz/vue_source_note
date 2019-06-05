@@ -1,0 +1,1 @@
+proxy_data 将vm[key]代理到vm._data[key]上
