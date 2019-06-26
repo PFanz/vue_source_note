@@ -1,5 +1,3 @@
-const Vue = require('vue')
-
 const vm = new Vue({
   data: {
     a: 1,
